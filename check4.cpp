@@ -1,7 +1,3 @@
-/**
- *    author:  Tyrant67
- *    created: 08.11.2021       
-**/
 #include <bits/stdc++.h>
 #define ll long long
 #define endl "\n"
